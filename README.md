@@ -1,5 +1,5 @@
 # 👋🏻 Hola, mi nombre es Cristian Diaz Vega
-
+▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ 
 ### Tec. Sup. En Soporte de Infraestructura de Tecnología de Información | Desarrillador wed | Fullstack Developer
 
 ![./code.png](https://github.com/crisvegadiaz/crisvegadiaz/blob/main/code.png)
@@ -9,6 +9,7 @@
 
 
 ## 🖥️ Tecnologías:
+▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ 
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -18,5 +19,8 @@
 [![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]() 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)]() 
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]() 
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 
+▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ 
 
