@@ -1,6 +1,6 @@
 # 👋🏻 Hola, mi nombre es Cristian Diaz Vega
 ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ ▄▄ 
-### Tec. Sup. En Soporte de Infraestructura de Tecnología de Información | Desarrillador wed | Fullstack Developer
+### Tec. Sup. En Soporte de Infraestructura de Tecnología de Información | Desarrollador web | Fullstack Developer
 
 ![./code.png](https://github.com/crisvegadiaz/crisvegadiaz/blob/main/code.png)
 
